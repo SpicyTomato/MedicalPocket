@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MedicalPocket</string>
+    <string name="app_name_ch">医口袋</string>
+
+    <string name="textView_login">你是</string>
+    <string name="button_login_patient">病人</string>
+    <string name="button_login_doctor">医生</string>
+    <string name="information_msg">个人信息</string>
+    <string name="information_name">姓名:</string>
+    <string name="information_tel">联系方式:</string>
+    <string name="information_address">家庭住址:</string>
+    <string name="information_age">年龄:</string>
+    <string name="information_sex">性别:</string>
+    <string name="commit">提交</string>
+    <string name="entry_insert">门诊病历</string>
+    <string name="information__doctor_name">姓名:</string>
+    <string name="information_this_sick">主诉:</string>
+    <string name="information_past_sick">既往史:</string>
+    <string name="information_body_check">体格检查:</string>
+    <string name="information_blood_check">血液检查:</string>
+    <string name="information_suggestion">诊断意见:</string>
+    <string name="information_cureplan">治疗计划:</string>
+    <string name="entry_title">门诊病历</string>
+    <string name="information_time">时间</string>
+    <string name="personal_information">个人信息</string>
+    <string name="personal_change">编辑信息</string>
+
+    <string-array name="indicator_name">
+        <item>往期门诊</item>
+        <item>导入门诊</item>
+        <item>个人资料</item>
+    </string-array>
+    
+    
+
+</resources>

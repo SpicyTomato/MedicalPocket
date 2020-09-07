@@ -1,0 +1,2 @@
+rootProject.name='MedicalPocket'
+include ':app'
